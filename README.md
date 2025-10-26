@@ -2,6 +2,8 @@
 
 #  Human Analytics: Decoding Consumer & Employee Behavior
 
+## View Interactive Dashborad Here: https://lnkd.in/dAvzS-m3
+
 **Focus:** Performance | Satisfaction | Training Impact  
 **Tools Used:** Power BI | Zoom Charts Pro
 
