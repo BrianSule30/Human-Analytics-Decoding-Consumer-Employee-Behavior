@@ -5,7 +5,7 @@
 **Focus:** Performance | Satisfaction | Training Impact  
 **Tools Used:** Power BI | Zoom Charts Pro
 
-## 🎯 Objective  
+## Objective  
 Explore how employee behavior, satisfaction, and training influence organizational outcomes across a network of **150 stores** and **6,009 employees**. This project reflects my passion for behavioral data and its power to shape strategic decisions.
 
 ## Analytical Approach  
@@ -47,7 +47,7 @@ Explore how employee behavior, satisfaction, and training influence organization
   - Age 57: Performance rating 3.85  
   - Takeaway: Experience trumps youthful zeal—valuable for succession planning and mentorship programs
 
-## 🧭 Strategic Recommendations  
+## Strategic Recommendations  
 - **Retention Strategy**: Focus on Store Operations churn drivers despite high satisfaction  
 - **Training Optimization**: Explore blended learning models to strengthen performance impact  
 - **Role Benchmarking**: Use Fresh Foods Director as a model for productivity frameworks  
